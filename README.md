@@ -28,7 +28,7 @@ Mini DayZ is a 2D zombie apocalypse game developed in Godot 3. In this game, pla
  - [ ] Physics system configuration
  - [ ] Zombie AI implementation
  - [ ] Gameplay testing and bug fixing
- - [ ]Performance optimization
+ - [ ] Performance optimization
 
 ### Documentation
  - [ ] Code documentation
